@@ -1,0 +1,6 @@
+peter,1
+mina,2
+tes3,3
+peter,4
+peter,3
+kkk,7
